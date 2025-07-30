@@ -2,6 +2,8 @@
 __pycache__/
 *.pyc
 venv/
+.env/
+.venv/
 
 # Node
 node_modules/
@@ -17,3 +19,9 @@ logs/
 # VSCode
 .vscode/
 .env
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
