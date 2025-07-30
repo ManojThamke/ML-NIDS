@@ -16,6 +16,9 @@ client/node_modules/
 data/
 logs/
 
+# Ignore trained model files
+detection-engine/models/
+
 # VSCode
 .vscode/
 .env
